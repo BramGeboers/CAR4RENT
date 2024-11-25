@@ -15,14 +15,6 @@ CAR4RENT is a semester-long group project where we developed a full-stack applic
 - **Real-Time Communication**: Implemented **Socket.IO** for live updates and interactions.  
 - **Cloud Platform**: Hosted on **Azure** for reliable and secure performance.  
 
-## Media  
-
-- **Demo Video**: [Watch the Demo](https://github.com/bramgeboers-UCLL/CAR4RENT)  
-- **Screenshots**:  
-  - ![Car4Rent Screenshot 1](/images/car4rent1.png)  
-  - ![Car4Rent Screenshot 2](/images/car4rent2.png)  
-  - ![Car4Rent Screenshot 3](/images/car4rent3.png)  
-
 ## Disclaimer  
 
 This repository represents our semester-long group project and showcases the collaborative effort involved in its development.  
